@@ -71,8 +71,3 @@ This repository is licensed under the [Apache 2.0 License](./LICENSE).
 Created by **Arafat Anam Chowdhury**
 
 For questions or collaborations, feel free to connect!
-
-```
-
----
-```
